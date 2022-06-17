@@ -22,7 +22,7 @@
   "types": "dist/index.d.ts",
   "peerDependencies": {
     "@types/styled-components": "^4.1.19",
-    "styled-components": ">= 1 <= 4"
+    "styled-components": ">= 1 <= 5"
   },
   "devDependencies": {
     "@jameslnewell/editor-config": "^1.0.1",
